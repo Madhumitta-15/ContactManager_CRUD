@@ -11,7 +11,6 @@ This is a simple React application for managing a list of contacts. The applicat
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Folder Structure](#folder-structure)
 
 ## Features
@@ -43,17 +42,6 @@ Follow the instructions below to get a copy of the project up and running on you
     # or
     yarn install
     ```
-
-### Usage
-
-1. Start the development server:
-    ```sh
-    npm start
-    # or
-    yarn start
-    ```
-
-2. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
 
 ## Folder Structure
 
